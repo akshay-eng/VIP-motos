@@ -1,0 +1,1256 @@
+{
+  "cars": {
+    "lamborghini-urus-2022": [
+      {
+        "src": "/cars/lamborghini-urus-2022/1.jpg",
+        "title": "Lamborghini Urus Performante 1X7A6805.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_Performante_1X7A6805.jpg"
+      },
+      {
+        "src": "/cars/lamborghini-urus-2022/2.jpg",
+        "title": "Lamborghini Urus SE DSC 8524.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_SE_DSC_8524.jpg"
+      },
+      {
+        "src": "/cars/lamborghini-urus-2022/3.jpg",
+        "title": "Lamborghini Urus S 1X7A6798.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_S_1X7A6798.jpg"
+      },
+      {
+        "src": "/cars/lamborghini-urus-2022/4.jpg",
+        "title": "Lamborghini Urus S 1X7A6796.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamborghini_Urus_S_1X7A6796.jpg"
+      }
+    ],
+    "mercedes-gle-300d-2025": [
+      {
+        "src": "/cars/mercedes-gle-300d-2025/1.jpg",
+        "title": "Mercedes-Benz GLE-Klasse (V167) GLE 350 4MATIC (2023) (53651855136).jpg",
+        "credit": "Charles from Port Chester, New York",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE-Klasse_(V167)_GLE_350_4MATIC_(2023)_(53651855136).jpg"
+      },
+      {
+        "src": "/cars/mercedes-gle-300d-2025/2.jpg",
+        "title": "Mercedes-Benz GLE ESF Concept (V167) (48819962077).jpg",
+        "credit": "Rutger van der Maar from Leiden, The Netherlands",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE_ESF_Concept_(V167)_(48819962077).jpg"
+      },
+      {
+        "src": "/cars/mercedes-gle-300d-2025/3.jpg",
+        "title": "Mercedes-Benz GLE-Klasse (V167) GLE 350 de 4MATIC (2021) (52180834362).jpg",
+        "credit": "Charles from Port Chester, New York",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE-Klasse_(V167)_GLE_350_de_4MATIC_(2021)_(52180834362).jpg"
+      },
+      {
+        "src": "/cars/mercedes-gle-300d-2025/4.jpg",
+        "title": "Mercedes-Benz GLE-Klasse (V167) GLE 350 de 4MATIC (2021) (52095367745).jpg",
+        "credit": "Charles from Port Chester, New York",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE-Klasse_(V167)_GLE_350_de_4MATIC_(2021)_(52095367745).jpg"
+      }
+    ],
+    "bmw-x7-40i-2023": [
+      {
+        "src": "/cars/bmw-x7-40i-2023/1.jpg",
+        "title": "BMW G07 X7 M60i DSC 8564.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G07_X7_M60i_DSC_8564.jpg"
+      },
+      {
+        "src": "/cars/bmw-x7-40i-2023/2.jpg",
+        "title": "BMW G07 1X7A1696.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G07_1X7A1696.jpg"
+      },
+      {
+        "src": "/cars/bmw-x7-40i-2023/3.jpg",
+        "title": "BMW G07 X7 M60i 1X7A7226.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G07_X7_M60i_1X7A7226.jpg"
+      },
+      {
+        "src": "/cars/bmw-x7-40i-2023/4.jpg",
+        "title": "BMW G07 (2022) 1X7A6991.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G07_(2022)_1X7A6991.jpg"
+      },
+      {
+        "src": "/cars/bmw-x7-40i-2023/interior-1.jpg",
+        "title": "2025 BMW X7 M60i Interior.jpg",
+        "credit": "Pixelatedfacealex",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2025_BMW_X7_M60i_Interior.jpg"
+      }
+    ],
+    "mercedes-c220d-2023": [
+      {
+        "src": "/cars/mercedes-c220d-2023/1.jpg",
+        "title": "MERCEDES-BENZ C-CLASS LWB (W206) China (17).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_C-CLASS_LWB_(W206)_China_(17).jpg"
+      },
+      {
+        "src": "/cars/mercedes-c220d-2023/2.jpg",
+        "title": "MERCEDES-BENZ C-CLASS LWB (V206) China.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_C-CLASS_LWB_(V206)_China.jpg"
+      },
+      {
+        "src": "/cars/mercedes-c220d-2023/3.jpg",
+        "title": "MERCEDES-BENZ C-CLASS LWB (V206) China (2).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_C-CLASS_LWB_(V206)_China_(2).jpg"
+      },
+      {
+        "src": "/cars/mercedes-c220d-2023/4.jpg",
+        "title": "MERCEDES-BENZ C-CLASS LWB (W206) China (16).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_C-CLASS_LWB_(W206)_China_(16).jpg"
+      },
+      {
+        "src": "/cars/mercedes-c220d-2023/interior-1.jpg",
+        "title": "The interior of Mercedes-Benz C 200 AVANTGARDE (W206).jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_interior_of_Mercedes-Benz_C_200_AVANTGARDE_(W206).jpg"
+      }
+    ],
+    "ford-endeavour-2021": [
+      {
+        "src": "/cars/ford-endeavour-2021/1.jpg",
+        "title": "Ford Everest 4x2 Titanium 2019 (2).jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_4x2_Titanium_2019_(2).jpg"
+      },
+      {
+        "src": "/cars/ford-endeavour-2021/2.jpg",
+        "title": "Ford Everest 4x2 Titanium 2019.jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_4x2_Titanium_2019.jpg"
+      },
+      {
+        "src": "/cars/ford-endeavour-2021/3.jpg",
+        "title": "Ford Everest 4x2 Titanium 2019 (1).jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_4x2_Titanium_2019_(1).jpg"
+      },
+      {
+        "src": "/cars/ford-endeavour-2021/4.jpg",
+        "title": "Ford Everest 4x4 Titanium 2.0 Bi-Turbo.jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_4x4_Titanium_2.0_Bi-Turbo.jpg"
+      }
+    ],
+    "mahindra-xuv700-2022": [
+      {
+        "src": "/cars/mahindra-xuv700-2022/1.jpg",
+        "title": "A black Mahindra XUV700 SUV in Ashiana Brahmananda, Jamshedpur, India (Ank Kumar, Infosys Limited) 02.jpg",
+        "credit": "Ank Kumar",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:A_black_Mahindra_XUV700_SUV_in_Ashiana_Brahmananda,_Jamshedpur,_India_(Ank_Kumar,_Infosys_Limited)_02.jpg"
+      },
+      {
+        "src": "/cars/mahindra-xuv700-2022/2.jpg",
+        "title": "2023 Mahindra XUV700 AX7L rear.jpg",
+        "credit": "LuvsMG481",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_Mahindra_XUV700_AX7L_rear.jpg"
+      },
+      {
+        "src": "/cars/mahindra-xuv700-2022/3.jpg",
+        "title": "2023 Mahindra XUV700 AX7L front.jpg",
+        "credit": "LuvsMG481",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_Mahindra_XUV700_AX7L_front.jpg"
+      }
+    ],
+    "porsche-911-carrera-s-2021": [
+      {
+        "src": "/cars/porsche-911-carrera-s-2021/1.jpg",
+        "title": "Porsche 992 Carrera S coupe IMG 5838.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_Carrera_S_coupe_IMG_5838.jpg"
+      },
+      {
+        "src": "/cars/porsche-911-carrera-s-2021/2.jpg",
+        "title": "2025 Porsche 911 Carrera S rear.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:2025_Porsche_911_Carrera_S_rear.jpg"
+      },
+      {
+        "src": "/cars/porsche-911-carrera-s-2021/3.jpg",
+        "title": "Porsche 992 Carrera S (1).jpg",
+        "credit": "Nick.Pr",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_Carrera_S_(1).jpg"
+      },
+      {
+        "src": "/cars/porsche-911-carrera-s-2021/4.jpg",
+        "title": "Porsche 992 Carrera S (8).jpg",
+        "credit": "Nick.Pr",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_992_Carrera_S_(8).jpg"
+      }
+    ],
+    "porsche-cayenne-coupe-2022": [
+      {
+        "src": "/cars/porsche-cayenne-coupe-2022/1.jpg",
+        "title": "Porsche Cayenne Coup\u00e9 GTS 1X7A7224.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_Coup%C3%A9_GTS_1X7A7224.jpg"
+      },
+      {
+        "src": "/cars/porsche-cayenne-coupe-2022/2.jpg",
+        "title": "2023 Porsche Cayenne Coup\u00e9 S 1X7A1674.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_Porsche_Cayenne_Coup%C3%A9_S_1X7A1674.jpg"
+      },
+      {
+        "src": "/cars/porsche-cayenne-coupe-2022/3.jpg",
+        "title": "2023 Porsche Cayenne Coup\u00e9 S 1X7A1676.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_Porsche_Cayenne_Coup%C3%A9_S_1X7A1676.jpg"
+      },
+      {
+        "src": "/cars/porsche-cayenne-coupe-2022/4.jpg",
+        "title": "2024 Porsche Cayenne Coup\u00e9 GTS DSC 7904.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2024_Porsche_Cayenne_Coup%C3%A9_GTS_DSC_7904.jpg"
+      }
+    ],
+    "porsche-taycan-4s-2023": [
+      {
+        "src": "/cars/porsche-taycan-4s-2023/1.jpg",
+        "title": "Porsche Taycan 4S Washington DC Metro Area, USA.jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_Taycan_4S_Washington_DC_Metro_Area,_USA.jpg"
+      },
+      {
+        "src": "/cars/porsche-taycan-4s-2023/2.jpg",
+        "title": "Porsche Taycan 4S Washington DC Metro Area, USA (1).jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_Taycan_4S_Washington_DC_Metro_Area,_USA_(1).jpg"
+      },
+      {
+        "src": "/cars/porsche-taycan-4s-2023/3.jpg",
+        "title": "Porsche Taycan 4S Washington DC Metro Area, USA (2).jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Porsche_Taycan_4S_Washington_DC_Metro_Area,_USA_(2).jpg"
+      },
+      {
+        "src": "/cars/porsche-taycan-4s-2023/4.jpg",
+        "title": "2022 Porsche Taycan 4S (76775).jpg",
+        "credit": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2022_Porsche_Taycan_4S_(76775).jpg"
+      }
+    ],
+    "range-rover-velar-2022": [
+      {
+        "src": "/cars/range-rover-velar-2022/1.jpg",
+        "title": "Range Rover Velar P250 SE IMG 8831.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_Velar_P250_SE_IMG_8831.jpg"
+      },
+      {
+        "src": "/cars/range-rover-velar-2022/2.jpg",
+        "title": "Range Rover Velar P250 SE IMG 8835.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_Velar_P250_SE_IMG_8835.jpg"
+      },
+      {
+        "src": "/cars/range-rover-velar-2022/3.jpg",
+        "title": "Range Rover Velar, IAA 2017, Frankfurt (1Y7A3085).jpg",
+        "credit": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_Velar,_IAA_2017,_Frankfurt_(1Y7A3085).jpg"
+      },
+      {
+        "src": "/cars/range-rover-velar-2022/4.jpg",
+        "title": "Land Rover Range Rover Velar (Facelift) 1X7A5817.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Velar_(Facelift)_1X7A5817.jpg"
+      },
+      {
+        "src": "/cars/range-rover-velar-2022/interior-1.jpg",
+        "title": "2017 Land Rover Range Rover Velar First Edition Interior.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2017_Land_Rover_Range_Rover_Velar_First_Edition_Interior.jpg"
+      }
+    ],
+    "land-rover-defender-110-2023": [
+      {
+        "src": "/cars/land-rover-defender-110-2023/1.jpg",
+        "title": "Land Rover Defender 110 First Edition 2020 - rear.jpg",
+        "credit": "DeFacto",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg"
+      },
+      {
+        "src": "/cars/land-rover-defender-110-2023/2.jpg",
+        "title": "2020 Land Rover Defender S D240 Automatic (with Veemann alloys) 2.0 Rear.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2020_Land_Rover_Defender_S_D240_Automatic_(with_Veemann_alloys)_2.0_Rear.jpg"
+      },
+      {
+        "src": "/cars/land-rover-defender-110-2023/3.jpg",
+        "title": "Land Rover DEFENDER 110 SE EXPLORER PACK (L663) rear.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_DEFENDER_110_SE_EXPLORER_PACK_(L663)_rear.jpg"
+      },
+      {
+        "src": "/cars/land-rover-defender-110-2023/4.jpg",
+        "title": "Land Rover DEFENDER 110 S ADVENTURE PACK (L663) front.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_DEFENDER_110_S_ADVENTURE_PACK_(L663)_front.jpg"
+      },
+      {
+        "src": "/cars/land-rover-defender-110-2023/interior-1.jpg",
+        "title": "2020 Land Rover Defender S Diesel Automatic 2.0 Interior.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2020_Land_Rover_Defender_S_Diesel_Automatic_2.0_Interior.jpg"
+      }
+    ],
+    "range-rover-autobiography-2020": [
+      {
+        "src": "/cars/range-rover-autobiography-2020/1.jpg",
+        "title": "Land Rover Range Rover Autobiography 2016.jpg",
+        "credit": "DeFacto",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Autobiography_2016.jpg"
+      },
+      {
+        "src": "/cars/range-rover-autobiography-2020/2.jpg",
+        "title": "Range Rover L, IAA 2017, Frankfurt (1Y7A3068).jpg",
+        "credit": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Range_Rover_L,_IAA_2017,_Frankfurt_(1Y7A3068).jpg"
+      },
+      {
+        "src": "/cars/range-rover-autobiography-2020/3.jpg",
+        "title": "Land Rover Range Rover Autobiography L405 Santorini Black (3).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Autobiography_L405_Santorini_Black_(3).jpg"
+      },
+      {
+        "src": "/cars/range-rover-autobiography-2020/4.jpg",
+        "title": "Land Rover Range Rover L Autobiography L405 FL Santorini Black (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_L_Autobiography_L405_FL_Santorini_Black_(2).jpg"
+      },
+      {
+        "src": "/cars/range-rover-autobiography-2020/interior-1.jpg",
+        "title": "Land Rover RANGE ROVER VOGUE (ABA-LG3SB) interior.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_RANGE_ROVER_VOGUE_(ABA-LG3SB)_interior.jpg"
+      }
+    ],
+    "mercedes-s350d-2021": [
+      {
+        "src": "/cars/mercedes-s350d-2021/1.jpg",
+        "title": "Mercedes-Benz W223 1X7A7340.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W223_1X7A7340.jpg"
+      },
+      {
+        "src": "/cars/mercedes-s350d-2021/2.jpg",
+        "title": "Mercedes-Benz W223 IMG 0266.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W223_IMG_0266.jpg"
+      },
+      {
+        "src": "/cars/mercedes-s350d-2021/3.jpg",
+        "title": "Mercedes-Benz W223 580 e IAA 2021 1X7A0257.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W223_580_e_IAA_2021_1X7A0257.jpg"
+      },
+      {
+        "src": "/cars/mercedes-s350d-2021/4.jpg",
+        "title": "Mercedes-AMG S 63 (W223) IMG 8215.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_S_63_(W223)_IMG_8215.jpg"
+      },
+      {
+        "src": "/cars/mercedes-s350d-2021/interior-1.jpg",
+        "title": "Mercedes-AMG S 63 E Performance (W223) interior.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_S_63_E_Performance_(W223)_interior.jpg"
+      }
+    ],
+    "maybach-s580-2022": [
+      {
+        "src": "/cars/maybach-s580-2022/1.jpg",
+        "title": "Mercedes-Maybach Z223 680 1X7A5831.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_Z223_680_1X7A5831.jpg"
+      },
+      {
+        "src": "/cars/maybach-s580-2022/2.jpg",
+        "title": "Mercedes-Maybach Z223 680 1X7A5830.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_Z223_680_1X7A5830.jpg"
+      },
+      {
+        "src": "/cars/maybach-s580-2022/3.jpg",
+        "title": "Mercedes-Maybach S 680 (Z223) 1X7A1856.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_S_680_(Z223)_1X7A1856.jpg"
+      },
+      {
+        "src": "/cars/maybach-s580-2022/4.jpg",
+        "title": "Mercedes-Maybach Z223 680 IAA 2021 1X7A0286.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Maybach_Z223_680_IAA_2021_1X7A0286.jpg"
+      }
+    ],
+    "mercedes-amg-g63-2023": [
+      {
+        "src": "/cars/mercedes-amg-g63-2023/1.jpg",
+        "title": "MERCEDES-AMG G 63 (W463) China (4).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G_63_(W463)_China_(4).jpg"
+      },
+      {
+        "src": "/cars/mercedes-amg-g63-2023/2.jpg",
+        "title": "MERCEDES-AMG G 63 (W463)HONG KONG.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G_63_(W463)HONG_KONG.jpg"
+      },
+      {
+        "src": "/cars/mercedes-amg-g63-2023/3.jpg",
+        "title": "MERCEDES-AMG G 63 (W463)HONG KONG (2).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-AMG_G_63_(W463)HONG_KONG_(2).jpg"
+      },
+      {
+        "src": "/cars/mercedes-amg-g63-2023/4.jpg",
+        "title": "Mercedes-Benz W463 G 63 AMG at Legendy 2014.JPG",
+        "credit": "Ji\u0159\u00ed Sedl\u00e1\u010dek",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W463_G_63_AMG_at_Legendy_2014.JPG"
+      }
+    ],
+    "mercedes-e220d-2022": [
+      {
+        "src": "/cars/mercedes-e220d-2022/1.jpg",
+        "title": "0 Mercedes-Benz W213 Facelift 1.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:0_Mercedes-Benz_W213_Facelift_1.jpg"
+      },
+      {
+        "src": "/cars/mercedes-e220d-2022/2.jpg",
+        "title": "0 Mercedes-Benz W213 Facelift 5.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:0_Mercedes-Benz_W213_Facelift_5.jpg"
+      },
+      {
+        "src": "/cars/mercedes-e220d-2022/3.jpg",
+        "title": "0 Mercedes-Benz W213 Facelift 2.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:0_Mercedes-Benz_W213_Facelift_2.jpg"
+      },
+      {
+        "src": "/cars/mercedes-e220d-2022/4.jpg",
+        "title": "0 Mercedes-Benz W213 Facelift 0.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:0_Mercedes-Benz_W213_Facelift_0.jpg"
+      },
+      {
+        "src": "/cars/mercedes-e220d-2022/interior-1.jpg",
+        "title": "Mercedes-Benz E 200 Sports (W213) interior.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_E_200_Sports_(W213)_interior.jpg"
+      }
+    ],
+    "bmw-740li-2022": [
+      {
+        "src": "/cars/bmw-740li-2022/1.jpg",
+        "title": "BMW 7 Series G12 LCI black (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7_Series_G12_LCI_black_(2).jpg"
+      },
+      {
+        "src": "/cars/bmw-740li-2022/2.jpg",
+        "title": "BMW 7 Series G12 LCI black (1).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7_Series_G12_LCI_black_(1).jpg"
+      },
+      {
+        "src": "/cars/bmw-740li-2022/3.jpg",
+        "title": "BMW 7 Series G12 black (1).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7_Series_G12_black_(1).jpg"
+      },
+      {
+        "src": "/cars/bmw-740li-2022/4.jpg",
+        "title": "BMW 7 Series G12 black (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7_Series_G12_black_(2).jpg"
+      },
+      {
+        "src": "/cars/bmw-740li-2022/interior-1.jpg",
+        "title": "BMW M760Li xDrive Interior.jpg",
+        "credit": "Ominae",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_M760Li_xDrive_Interior.jpg"
+      }
+    ],
+    "bmw-i7-2023": [
+      {
+        "src": "/cars/bmw-i7-2023/1.jpg",
+        "title": "BMW 7-Series (G70) 750e 1X7A1899.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7-Series_(G70)_750e_1X7A1899.jpg"
+      },
+      {
+        "src": "/cars/bmw-i7-2023/2.jpg",
+        "title": "BMW 7-Series (G70) 750e 1X7A1895 (Hintergrund retuschiert).jpg",
+        "credit": "Original photo by User:Alexander-93 retouched by NearEMPTiness",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7-Series_(G70)_750e_1X7A1895_(Hintergrund_retuschiert).jpg"
+      },
+      {
+        "src": "/cars/bmw-i7-2023/3.jpg",
+        "title": "BMW 7-Series (G70) 750e 1X7A1897.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7-Series_(G70)_750e_1X7A1897.jpg"
+      },
+      {
+        "src": "/cars/bmw-i7-2023/4.jpg",
+        "title": "BMW 7-Series (G70) 750e 1X7A1895.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_7-Series_(G70)_750e_1X7A1895.jpg"
+      },
+      {
+        "src": "/cars/bmw-i7-2023/interior-1.jpg",
+        "title": "BMW G70's front Interior.jpg",
+        "credit": "RpM Tartar",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G70%27s_front_Interior.jpg"
+      }
+    ],
+    "bmw-m340i-2021": [
+      {
+        "src": "/cars/bmw-m340i-2021/1.jpg",
+        "title": "BMW M340i (G20) Washington DC Metro Area, USA (1).jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_M340i_(G20)_Washington_DC_Metro_Area,_USA_(1).jpg"
+      },
+      {
+        "src": "/cars/bmw-m340i-2021/2.jpg",
+        "title": "BMW G20 LCI M340i Black Sapphire Metallic (5).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G20_LCI_M340i_Black_Sapphire_Metallic_(5).jpg"
+      },
+      {
+        "src": "/cars/bmw-m340i-2021/3.jpg",
+        "title": "BMW M340i xDrive (G20).jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_M340i_xDrive_(G20).jpg"
+      },
+      {
+        "src": "/cars/bmw-m340i-2021/4.jpg",
+        "title": "BMW G20 LCI M340i Black Sapphire Metallic (3).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G20_LCI_M340i_Black_Sapphire_Metallic_(3).jpg"
+      },
+      {
+        "src": "/cars/bmw-m340i-2021/interior-1.jpg",
+        "title": "2023 BMW 318i dashboard.jpg",
+        "credit": "Micha\u0142 Derela",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_BMW_318i_dashboard.jpg"
+      }
+    ],
+    "bmw-x5-40i-2022": [
+      {
+        "src": "/cars/bmw-x5-40i-2022/1.jpg",
+        "title": "BMW X5 M (G05) 1X7A7047.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_X5_M_(G05)_1X7A7047.jpg"
+      },
+      {
+        "src": "/cars/bmw-x5-40i-2022/2.jpg",
+        "title": "BMW X5 (G05) China.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_X5_(G05)_China.jpg"
+      },
+      {
+        "src": "/cars/bmw-x5-40i-2022/3.jpg",
+        "title": "BMW X5 (G05) China (4).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_X5_(G05)_China_(4).jpg"
+      },
+      {
+        "src": "/cars/bmw-x5-40i-2022/4.jpg",
+        "title": "BMW X5 (G05) China (17).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_X5_(G05)_China_(17).jpg"
+      },
+      {
+        "src": "/cars/bmw-x5-40i-2022/interior-1.jpg",
+        "title": "2020 BMW X5 (G05) interior.jpg",
+        "credit": "User3204",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:2020_BMW_X5_(G05)_interior.jpg"
+      }
+    ],
+    "bmw-z4-m40i-2023": [
+      {
+        "src": "/cars/bmw-z4-m40i-2023/1.jpg",
+        "title": "BMW G29 Z4 M40i (Facelift) 1X7A6946.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G29_Z4_M40i_(Facelift)_1X7A6946.jpg"
+      },
+      {
+        "src": "/cars/bmw-z4-m40i-2023/2.jpg",
+        "title": "BMW Z4 M40i.jpg",
+        "credit": "\u591a\u591a123",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_Z4_M40i.jpg"
+      },
+      {
+        "src": "/cars/bmw-z4-m40i-2023/3.jpg",
+        "title": "BMW G29 Z4 M40i (Facelift) 1X7A6948.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_G29_Z4_M40i_(Facelift)_1X7A6948.jpg"
+      },
+      {
+        "src": "/cars/bmw-z4-m40i-2023/4.jpg",
+        "title": "BMW Z4, Berlin (IMG 20190601 100651).jpg",
+        "credit": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BMW_Z4,_Berlin_(IMG_20190601_100651).jpg"
+      },
+      {
+        "src": "/cars/bmw-z4-m40i-2023/interior-1.jpg",
+        "title": "2019 BMW Z4 M40i Interior.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2019_BMW_Z4_M40i_Interior.jpg"
+      }
+    ],
+    "audi-q7-55-tfsi-2022": [
+      {
+        "src": "/cars/audi-q7-55-tfsi-2022/1.jpg",
+        "title": "Audi Q7 S line (4M, Facelift) \u2013 f 05072025.jpg",
+        "credit": "\u00a9 M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_Q7_S_line_(4M,_Facelift)_%E2%80%93_f_05072025.jpg"
+      },
+      {
+        "src": "/cars/audi-q7-55-tfsi-2022/2.jpg",
+        "title": "Audi Q7 S line (4M, Facelift) \u2013 h 05072025.jpg",
+        "credit": "\u00a9 M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_Q7_S_line_(4M,_Facelift)_%E2%80%93_h_05072025.jpg"
+      },
+      {
+        "src": "/cars/audi-q7-55-tfsi-2022/3.jpg",
+        "title": "Audi Q7 55 TFSI Quattro S Line 4M FL Mythos Black Metallic (18).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_Q7_55_TFSI_Quattro_S_Line_4M_FL_Mythos_Black_Metallic_(18).jpg"
+      },
+      {
+        "src": "/cars/audi-q7-55-tfsi-2022/4.jpg",
+        "title": "Audi Q7 55 TFSI Quattro S Line 4M FL Mythos Black Metallic (8).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_Q7_55_TFSI_Quattro_S_Line_4M_FL_Mythos_Black_Metallic_(8).jpg"
+      },
+      {
+        "src": "/cars/audi-q7-55-tfsi-2022/interior-1.jpg",
+        "title": "2019 Audi Q7 facelift Interior.jpg",
+        "credit": "Vauxford",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2019_Audi_Q7_facelift_Interior.jpg"
+      }
+    ],
+    "audi-rs-etron-gt-2023": [
+      {
+        "src": "/cars/audi-rs-etron-gt-2023/1.jpg",
+        "title": "Audi RS e-tron GT 1X7A1874.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_RS_e-tron_GT_1X7A1874.jpg"
+      },
+      {
+        "src": "/cars/audi-rs-etron-gt-2023/2.jpg",
+        "title": "Audi RS e-tron GT 1X7A1875.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_RS_e-tron_GT_1X7A1875.jpg"
+      },
+      {
+        "src": "/cars/audi-rs-etron-gt-2023/3.jpg",
+        "title": "Audi RS e-tron GT IMG 0703.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_RS_e-tron_GT_IMG_0703.jpg"
+      },
+      {
+        "src": "/cars/audi-rs-etron-gt-2023/4.jpg",
+        "title": "Audi RS e-tron GT Auto Zuerich 2023 1X7A1112.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_RS_e-tron_GT_Auto_Zuerich_2023_1X7A1112.jpg"
+      },
+      {
+        "src": "/cars/audi-rs-etron-gt-2023/interior-1.jpg",
+        "title": "2021 Audi e-tron GT RS - interior detail.jpg",
+        "credit": "Ssu",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2021_Audi_e-tron_GT_RS_-_interior_detail.jpg"
+      }
+    ],
+    "audi-a6-45-tfsi-2021": [
+      {
+        "src": "/cars/audi-a6-45-tfsi-2021/1.jpg",
+        "title": "18 Audi A6 C8 sedans 1.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:18_Audi_A6_C8_sedans_1.jpg"
+      },
+      {
+        "src": "/cars/audi-a6-45-tfsi-2021/2.jpg",
+        "title": "18 Audi A6 C8 sedans 2.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:18_Audi_A6_C8_sedans_2.jpg"
+      },
+      {
+        "src": "/cars/audi-a6-45-tfsi-2021/3.jpg",
+        "title": "Audi A6 (C8) Washington DC Metro Area, USA.jpg",
+        "credit": "OWS Photography",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Audi_A6_(C8)_Washington_DC_Metro_Area,_USA.jpg"
+      },
+      {
+        "src": "/cars/audi-a6-45-tfsi-2021/4.jpg",
+        "title": "Tuned Audi A6 SEDAN (C8) front.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tuned_Audi_A6_SEDAN_(C8)_front.jpg"
+      }
+    ],
+    "volvo-xc90-b6-2022": [
+      {
+        "src": "/cars/volvo-xc90-b6-2022/1.jpg",
+        "title": "Volvo XC90 II facelift 002.jpg",
+        "credit": "JustAnotherCarDesigner",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_II_facelift_002.jpg"
+      },
+      {
+        "src": "/cars/volvo-xc90-b6-2022/2.jpg",
+        "title": "Volvo XC90 II facelift 003.jpg",
+        "credit": "JustAnotherCarDesigner",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_II_facelift_003.jpg"
+      },
+      {
+        "src": "/cars/volvo-xc90-b6-2022/3.jpg",
+        "title": "Volvo XC90 II facelift 001.jpg",
+        "credit": "Zoerides",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_II_facelift_001.jpg"
+      },
+      {
+        "src": "/cars/volvo-xc90-b6-2022/4.jpg",
+        "title": "Volvo XC90 T8 AWD Plug-in Hybrid Plus (II, 2. Facelift) \u2013 h 03102025.jpg",
+        "credit": "\u00a9 M 93",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_(II,_2._Facelift)_%E2%80%93_h_03102025.jpg"
+      },
+      {
+        "src": "/cars/volvo-xc90-b6-2022/interior-1.jpg",
+        "title": "Volvo XC90 II (2017) interior.jpg",
+        "credit": "MichalPL",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_II_(2017)_interior.jpg"
+      }
+    ],
+    "toyota-land-cruiser-300-2022": [
+      {
+        "src": "/cars/toyota-land-cruiser-300-2022/1.jpg",
+        "title": "2021 Toyota Land Cruieser 300 ZX.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:2021_Toyota_Land_Cruieser_300_ZX.jpg"
+      },
+      {
+        "src": "/cars/toyota-land-cruiser-300-2022/2.jpg",
+        "title": "Toyota Land Cruiser J300 3.3 ZX 2022 (2).jpg",
+        "credit": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_J300_3.3_ZX_2022_(2).jpg"
+      },
+      {
+        "src": "/cars/toyota-land-cruiser-300-2022/3.jpg",
+        "title": "Toyota Land Cruiser 300.jpg",
+        "credit": "\u0627\u0644\u0634\u064a\u062e \u0645\u0627\u0647\u0631 \u0628\u0646 \u062d\u0645\u062f \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_300.jpg"
+      },
+      {
+        "src": "/cars/toyota-land-cruiser-300-2022/4.jpg",
+        "title": "Toyota Land Cruiser J300 3.3 ZX 2022 (1).jpg",
+        "credit": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_J300_3.3_ZX_2022_(1).jpg"
+      }
+    ],
+    "toyota-vellfire-2022": [
+      {
+        "src": "/cars/toyota-vellfire-2022/1.jpg",
+        "title": "Toyota Vellfire, Johor Bahru (P1110137).jpg",
+        "credit": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Vellfire,_Johor_Bahru_(P1110137).jpg"
+      },
+      {
+        "src": "/cars/toyota-vellfire-2022/2.jpg",
+        "title": "2018-2019 Toyota Vellfire Hybrid X.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:2018-2019_Toyota_Vellfire_Hybrid_X.jpg"
+      },
+      {
+        "src": "/cars/toyota-vellfire-2022/3.jpg",
+        "title": "2018-2019 Toyota Vellfire Hybrid V rear.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:2018-2019_Toyota_Vellfire_Hybrid_V_rear.jpg"
+      },
+      {
+        "src": "/cars/toyota-vellfire-2022/4.jpg",
+        "title": "2018-2019 Toyota Vellfire Hybrid X rear.jpg",
+        "credit": "TTTNIS",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:2018-2019_Toyota_Vellfire_Hybrid_X_rear.jpg"
+      },
+      {
+        "src": "/cars/toyota-vellfire-2022/interior-1.jpg",
+        "title": "Toyota Vellfire Hybrid interior.JPG",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Vellfire_Hybrid_interior.JPG"
+      }
+    ],
+    "mini-cooper-s-convertible-2022": [
+      {
+        "src": "/cars/mini-cooper-s-convertible-2022/1.jpg",
+        "title": "Mini F57 LCI Convertible Cooper S Pepper White (11).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mini_F57_LCI_Convertible_Cooper_S_Pepper_White_(11).jpg"
+      },
+      {
+        "src": "/cars/mini-cooper-s-convertible-2022/2.jpg",
+        "title": "Mini F57 LCI Convertible Cooper S Pepper White (13).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mini_F57_LCI_Convertible_Cooper_S_Pepper_White_(13).jpg"
+      },
+      {
+        "src": "/cars/mini-cooper-s-convertible-2022/3.jpg",
+        "title": "Mini F57 LCI Convertible Cooper S Pepper White (8).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mini_F57_LCI_Convertible_Cooper_S_Pepper_White_(8).jpg"
+      },
+      {
+        "src": "/cars/mini-cooper-s-convertible-2022/4.jpg",
+        "title": "Mini F57 LCI Convertible Cooper S Pepper White (10).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mini_F57_LCI_Convertible_Cooper_S_Pepper_White_(10).jpg"
+      },
+      {
+        "src": "/cars/mini-cooper-s-convertible-2022/interior-1.jpg",
+        "title": "Mini Cooper interior - Tokyo Motor Show 2013.jpg",
+        "credit": "Loadbeta",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mini_Cooper_interior_-_Tokyo_Motor_Show_2013.jpg"
+      }
+    ],
+    "rolls-royce-ghost-2019": [
+      {
+        "src": "/cars/rolls-royce-ghost-2019/1.jpg",
+        "title": "Rolls-Royce Ghost I Series II Black (16).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_I_Series_II_Black_(16).jpg"
+      },
+      {
+        "src": "/cars/rolls-royce-ghost-2019/2.jpg",
+        "title": "Rolls-Royce Ghost I Series II Black (17).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_I_Series_II_Black_(17).jpg"
+      },
+      {
+        "src": "/cars/rolls-royce-ghost-2019/3.jpg",
+        "title": "Rolls-Royce Ghost I Series II Black (14).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_I_Series_II_Black_(14).jpg"
+      },
+      {
+        "src": "/cars/rolls-royce-ghost-2019/4.jpg",
+        "title": "Rolls-Royce Ghost I Series II Black (12).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_I_Series_II_Black_(12).jpg"
+      }
+    ],
+    "bentley-continental-gt-2021": [
+      {
+        "src": "/cars/bentley-continental-gt-2021/1.jpg",
+        "title": "Bentley Continental GT (3rd gen.) Azure 1X7A6807.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_(3rd_gen.)_Azure_1X7A6807.jpg"
+      },
+      {
+        "src": "/cars/bentley-continental-gt-2021/2.jpg",
+        "title": "2019 Bentley Continental GT No. 9.jpg",
+        "credit": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2019_Bentley_Continental_GT_No._9.jpg"
+      },
+      {
+        "src": "/cars/bentley-continental-gt-2021/3.jpg",
+        "title": "2019 Bentley Continental GT Auto (22213).jpg",
+        "credit": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2019_Bentley_Continental_GT_Auto_(22213).jpg"
+      },
+      {
+        "src": "/cars/bentley-continental-gt-2021/4.jpg",
+        "title": "Bentley Continental GT 13.jpg",
+        "credit": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT_13.jpg"
+      }
+    ],
+    "jaguar-f-type-r-2022": [
+      {
+        "src": "/cars/jaguar-f-type-r-2022/1.jpg",
+        "title": "Jaguar F-Type R X152 Salsa Red (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_R_X152_Salsa_Red_(2).jpg"
+      },
+      {
+        "src": "/cars/jaguar-f-type-r-2022/2.jpg",
+        "title": "Jaguar F-Type R X152 Salsa Red (12).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_R_X152_Salsa_Red_(12).jpg"
+      },
+      {
+        "src": "/cars/jaguar-f-type-r-2022/3.jpg",
+        "title": "Jaguar F-Type R X152 Salsa Red (5).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_R_X152_Salsa_Red_(5).jpg"
+      },
+      {
+        "src": "/cars/jaguar-f-type-r-2022/4.jpg",
+        "title": "Jaguar F-Type R X152 Salsa Red (6).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_R_X152_Salsa_Red_(6).jpg"
+      },
+      {
+        "src": "/cars/jaguar-f-type-r-2022/interior-1.jpg",
+        "title": "Jaguar F-TYPE Coup\u00e9 (CBA-J608A) interior.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jaguar_F-TYPE_Coup%C3%A9_(CBA-J608A)_interior.jpg"
+      }
+    ],
+    "mercedes-gls-450-2023": [
+      {
+        "src": "/cars/mercedes-gls-450-2023/1.jpg",
+        "title": "MERCEDES-BENZ GLS (X167) China (6).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_GLS_(X167)_China_(6).jpg"
+      },
+      {
+        "src": "/cars/mercedes-gls-450-2023/2.jpg",
+        "title": "MERCEDES-BENZ GLS (X167) China.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_GLS_(X167)_China.jpg"
+      },
+      {
+        "src": "/cars/mercedes-gls-450-2023/3.jpg",
+        "title": "MERCEDES-BENZ GLS (X167) China (13).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_GLS_(X167)_China_(13).jpg"
+      },
+      {
+        "src": "/cars/mercedes-gls-450-2023/4.jpg",
+        "title": "MERCEDES-BENZ GLS (X167) China (7).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_GLS_(X167)_China_(7).jpg"
+      },
+      {
+        "src": "/cars/mercedes-gls-450-2023/interior-1.jpg",
+        "title": "Teh interior of Mercedes-Maybach GLS 600 (X167).jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Teh_interior_of_Mercedes-Maybach_GLS_600_(X167).jpg"
+      }
+    ],
+    "mercedes-eqs-580-2024": [
+      {
+        "src": "/cars/mercedes-eqs-580-2024/1.jpg",
+        "title": "Mercedes-Benz V297 IAA 2021 1X7A0251.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_V297_IAA_2021_1X7A0251.jpg"
+      },
+      {
+        "src": "/cars/mercedes-eqs-580-2024/2.jpg",
+        "title": "24 Mercedes-Benz EQS V297 2.jpg",
+        "credit": "Benespit",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:24_Mercedes-Benz_EQS_V297_2.jpg"
+      },
+      {
+        "src": "/cars/mercedes-eqs-580-2024/3.jpg",
+        "title": "Mercedes-Benz EQS rear view in China.jpg",
+        "credit": "Randolph1981",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQS_rear_view_in_China.jpg"
+      },
+      {
+        "src": "/cars/mercedes-eqs-580-2024/4.jpg",
+        "title": "Mercedes-Benz EQS front quarter view in China.jpg",
+        "credit": "Randolph1981",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQS_front_quarter_view_in_China.jpg"
+      },
+      {
+        "src": "/cars/mercedes-eqs-580-2024/interior-1.jpg",
+        "title": "Mercedes-Benz EQS 450+ (ZAA-297123) interior.jpg",
+        "credit": "Tokumeigakarinoaoshima",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQS_450%2B_(ZAA-297123)_interior.jpg"
+      }
+    ],
+    "ferrari-roma-2022": [
+      {
+        "src": "/cars/ferrari-roma-2022/1.jpg",
+        "title": "Ferrari Roma IMG 9620.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9620.jpg"
+      },
+      {
+        "src": "/cars/ferrari-roma-2022/2.jpg",
+        "title": "Ferrari Roma IMG 9627.jpg",
+        "credit": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9627.jpg"
+      },
+      {
+        "src": "/cars/ferrari-roma-2022/3.jpg",
+        "title": "Ferrari Roma Auto Zuerich 2021 IMG 0414.jpg",
+        "credit": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_Auto_Zuerich_2021_IMG_0414.jpg"
+      },
+      {
+        "src": "/cars/ferrari-roma-2022/4.jpg",
+        "title": "2021 Ferrari Roma 7.jpg",
+        "credit": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2021_Ferrari_Roma_7.jpg"
+      },
+      {
+        "src": "/cars/ferrari-roma-2022/interior-1.jpg",
+        "title": "Ferrari Roma Dual Cockpit Design.jpg",
+        "credit": "Epensock",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Roma_Dual_Cockpit_Design.jpg"
+      }
+    ],
+    "toyota-fortuner-legender-2023": [
+      {
+        "src": "/cars/toyota-fortuner-legender-2023/1.jpg",
+        "title": "Toyota Fortuner 4x4 Legender (LTD) 2022.jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_4x4_Legender_(LTD)_2022.jpg"
+      },
+      {
+        "src": "/cars/toyota-fortuner-legender-2023/2.jpg",
+        "title": "Toyota Fortuner GUN166 Legender 2.8 Q 4x2 Gray Metallic 02.jpg",
+        "credit": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_GUN166_Legender_2.8_Q_4x2_Gray_Metallic_02.jpg"
+      },
+      {
+        "src": "/cars/toyota-fortuner-legender-2023/3.jpg",
+        "title": "Toyota Fortuner GUN166 Legender 2.8 Q 4x2 Gray Metallic 01.jpg",
+        "credit": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_GUN166_Legender_2.8_Q_4x2_Gray_Metallic_01.jpg"
+      },
+      {
+        "src": "/cars/toyota-fortuner-legender-2023/4.jpg",
+        "title": "Toyota Fortuner 4x4 Legender (LTD) 2-Tone White Pearl-Black.jpg",
+        "credit": "Captainmorlypogi1959",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_4x4_Legender_(LTD)_2-Tone_White_Pearl-Black.jpg"
+      },
+      {
+        "src": "/cars/toyota-fortuner-legender-2023/interior-1.jpg",
+        "title": "Toyota Fortuner GUN165 2.4 G 4x2 MT - interior view.jpg",
+        "credit": "Ethan Llamas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_GUN165_2.4_G_4x2_MT_-_interior_view.jpg"
+      }
+    ],
+    "lexus-lx500d-2023": [
+      {
+        "src": "/cars/lexus-lx500d-2023/1.jpg",
+        "title": "Lexus LX 600 VJA310 Atomic Silver (2).jpg",
+        "credit": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lexus_LX_600_VJA310_Atomic_Silver_(2).jpg"
+      },
+      {
+        "src": "/cars/lexus-lx500d-2023/2.jpg",
+        "title": "LEXUS LX 600 F-SPORT (J310) China.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:LEXUS_LX_600_F-SPORT_(J310)_China.jpg"
+      },
+      {
+        "src": "/cars/lexus-lx500d-2023/3.jpg",
+        "title": "LEXUS LX 600 ULTRA LUXURY (J310).jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:LEXUS_LX_600_ULTRA_LUXURY_(J310).jpg"
+      },
+      {
+        "src": "/cars/lexus-lx500d-2023/4.jpg",
+        "title": "LEXUS LX 600 (J310) China.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:LEXUS_LX_600_(J310)_China.jpg"
+      },
+      {
+        "src": "/cars/lexus-lx500d-2023/interior-1.jpg",
+        "title": "LEXUS LX 600 ULTRA LUXURY (J310) INTERIOR.jpg",
+        "credit": "Dinkun Chen",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:LEXUS_LX_600_ULTRA_LUXURY_(J310)_INTERIOR.jpg"
+      }
+    ]
+  },
+  "misc": {
+    "bengaluru": [
+      {
+        "src": "/misc/bengaluru-1.jpg",
+        "title": "Vidhana Soudha LE.jpg",
+        "credit": "DeepanjanGhosh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_LE.jpg"
+      },
+      {
+        "src": "/misc/bengaluru-2.jpg",
+        "title": "Vidhana Soudha in night 5.jpg",
+        "credit": "Sai23ganesh",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_in_night_5.jpg"
+      }
+    ]
+  }
+}

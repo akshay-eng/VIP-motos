@@ -1,0 +1,172 @@
+{
+  "cars": {
+    "mercedes-gle-300d-2025": {
+      "ext": "Mercedes-Benz GLE V167",
+      "int": "Mercedes-Benz GLE V167 interior",
+      "exclude": "5332"
+    },
+    "bmw-x7-40i-2023": {
+      "ext": "BMW X7 G07",
+      "int": "BMW X7 G07 interior"
+    },
+    "mercedes-c220d-2023": {
+      "ext": "Mercedes-Benz C-Class W206",
+      "int": "Mercedes-Benz W206 interior"
+    },
+    "ford-endeavour-2021": {
+      "ext": "Ford Everest Titanium 2019",
+      "int": "Ford Everest interior",
+      "exclude": "U704|2014|2011|2006|2008|U268"
+    },
+    "mahindra-xuv700-2022": {
+      "ext": "Mahindra XUV700",
+      "int": "Mahindra XUV700 interior",
+      "exclude": "SsangYong"
+    },
+    "lamborghini-urus-2022": {
+      "ext": "Lamborghini Urus",
+      "int": "Lamborghini Urus interior"
+    },
+    "porsche-911-carrera-s-2021": {
+      "ext": "Porsche 992 Carrera S",
+      "int": "Porsche 992 interior",
+      "exclude": "Carrera S \\((6|7)\\)"
+    },
+    "porsche-cayenne-coupe-2022": {
+      "ext": "Porsche Cayenne Coup\u00e9",
+      "int": "Porsche Cayenne E3 interior"
+    },
+    "porsche-taycan-4s-2023": {
+      "ext": "Porsche Taycan 4S",
+      "int": "Porsche Taycan interior",
+      "exclude": "Cross Turismo|Sport Turismo"
+    },
+    "range-rover-velar-2022": {
+      "ext": "Range Rover Velar",
+      "int": "Range Rover Velar interior",
+      "exclude": "cut model"
+    },
+    "land-rover-defender-110-2023": {
+      "ext": "Land Rover Defender 110 2020",
+      "int": "Land Rover Defender 2020 interior",
+      "exclude": "2016|Station Wagon|November 2020|L316|rescue"
+    },
+    "range-rover-autobiography-2020": {
+      "ext": "Range Rover L405 Autobiography",
+      "int": "Range Rover L405 interior"
+    },
+    "mercedes-s350d-2021": {
+      "ext": "Mercedes-Benz W223",
+      "int": "Mercedes-Benz W223 interior"
+    },
+    "maybach-s580-2022": {
+      "ext": "Mercedes-Maybach Z223",
+      "int": "Mercedes-Maybach S-Class interior",
+      "exclude": "1X7A0287"
+    },
+    "mercedes-amg-g63-2023": {
+      "ext": "Mercedes-AMG G 63 W463",
+      "int": "Mercedes-Benz G-Class W463 interior",
+      "exclude": "6\u00d76|6x6|52573"
+    },
+    "mercedes-e220d-2022": {
+      "ext": "Mercedes-Benz W213 facelift",
+      "int": "Mercedes-Benz W213 interior"
+    },
+    "bmw-740li-2022": {
+      "ext": "BMW 7 Series G12 LCI",
+      "int": "BMW G12 interior"
+    },
+    "bmw-i7-2023": {
+      "ext": "BMW i7 G70",
+      "int": "BMW G70 interior"
+    },
+    "bmw-m340i-2021": {
+      "ext": "BMW M340i G20",
+      "int": "BMW G20 interior"
+    },
+    "bmw-x5-40i-2022": {
+      "ext": "BMW X5 G05",
+      "int": "BMW X5 G05 interior"
+    },
+    "bmw-z4-m40i-2023": {
+      "ext": "BMW Z4 G29",
+      "int": "BMW Z4 G29 interior"
+    },
+    "audi-q7-55-tfsi-2022": {
+      "ext": "Audi Q7 4M facelift",
+      "int": "Audi Q7 4M interior"
+    },
+    "audi-rs-etron-gt-2023": {
+      "ext": "Audi RS e-tron GT",
+      "int": "Audi e-tron GT interior"
+    },
+    "audi-a6-45-tfsi-2021": {
+      "ext": "Audi A6 C8 sedan",
+      "int": "Audi A6 C8 interior",
+      "exclude": "Allroad|Avant|Bundespolizei"
+    },
+    "volvo-xc90-b6-2022": {
+      "ext": "Volvo XC90 II facelift",
+      "int": "Volvo XC90 II interior"
+    },
+    "toyota-land-cruiser-300-2022": {
+      "ext": "Toyota Land Cruiser 300",
+      "int": "Toyota Land Cruiser 300 interior",
+      "exclude": "Salar|Reflection"
+    },
+    "toyota-vellfire-2022": {
+      "ext": "Toyota Vellfire AH30",
+      "int": "Toyota Vellfire interior"
+    },
+    "mini-cooper-s-convertible-2022": {
+      "ext": "Mini Cooper S Convertible F57",
+      "int": "Mini F56 interior"
+    },
+    "rolls-royce-ghost-2019": {
+      "ext": "Rolls-Royce Ghost Series II",
+      "int": "Rolls-Royce Ghost interior 2015",
+      "exclude": "Silver Ghost"
+    },
+    "bentley-continental-gt-2021": {
+      "ext": "Bentley Continental GT 2019",
+      "int": "Bentley Continental GT interior",
+      "exclude": "\\(II\\)| II |GTC|2011|V8 S|Supersports|Cabriolet|Convertible|GIMS1036"
+    },
+    "jaguar-f-type-r-2022": {
+      "ext": "Jaguar F-Type R X152",
+      "int": "Jaguar F-Type interior",
+      "exclude": "Convertible|Ice Drive|ZP Edition"
+    },
+    "mercedes-gls-450-2023": {
+      "ext": "Mercedes-Benz GLS X167",
+      "int": "Mercedes-Benz X167 interior",
+      "exclude": "IAA Summit"
+    },
+    "mercedes-eqs-580-2024": {
+      "ext": "Mercedes-Benz EQS V297",
+      "int": "Mercedes-Benz EQS interior",
+      "exclude": "^File:Mercedes-Benz, IAA"
+    },
+    "ferrari-roma-2022": {
+      "ext": "Ferrari Roma",
+      "int": "Ferrari Roma interior",
+      "exclude": "Spider|cropped"
+    },
+    "toyota-fortuner-legender-2023": {
+      "ext": "Toyota Fortuner Legender",
+      "int": "Toyota Fortuner interior"
+    },
+    "lexus-lx500d-2023": {
+      "ext": "Lexus LX 600",
+      "int": "Lexus LX 600 interior"
+    }
+  },
+  "misc": {
+    "showroom": "luxury car showroom interior",
+    "detailing": "car detailing polishing",
+    "service": "car mechanic workshop repair",
+    "wrap": "car wrapping vinyl",
+    "bengaluru": "Vidhana Soudha night"
+  }
+}
