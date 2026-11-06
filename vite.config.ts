@@ -3,8 +3,8 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import { fileURLToPath, URL } from "node:url";
 
-// BASE_PATH is set for GitHub Pages builds (the site lives at /VIP-motos/);
-// local dev and preview stay at the root.
+// The site is served from the root of vipdemo1.pulplabs.ai. BASE_PATH is only
+// needed to build it for a sub-path, such as a bare github.io project page.
 export default defineConfig({
   base: process.env.BASE_PATH ?? "/",
   plugins: [react(), tailwindcss()],

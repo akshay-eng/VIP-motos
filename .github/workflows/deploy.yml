@@ -1,5 +1,5 @@
 # Builds the site and publishes it to the gh-pages branch, which GitHub Pages
-# serves at https://akshay-eng.github.io/VIP-motos/.
+# serves at https://vipdemo1.pulplabs.ai (the custom domain comes from public/CNAME).
 name: Deploy to GitHub Pages
 
 on:

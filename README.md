@@ -14,9 +14,17 @@ npm run build        # type-check and production build into dist/
 
 ## Live site
 
-https://akshay-eng.github.io/VIP-motos/
+https://vipdemo1.pulplabs.ai
 
-Every push to `main` rebuilds and republishes it (`.github/workflows/deploy.yml`): the workflow runs `npm run build:pages`, which builds with the `/VIP-motos/` base path, copies `index.html` to `404.html` so deep links survive a refresh, and force-pushes `dist/` to the `gh-pages` branch that Pages serves.
+The old address, https://akshay-eng.github.io/VIP-motos/, redirects there.
+
+Every push to `main` rebuilds and republishes it (`.github/workflows/deploy.yml`). The workflow runs `npm run build:pages`, which:
+
+- builds for the domain root;
+- copies `index.html` to `404.html`, so deep links survive a refresh;
+- force-pushes `dist/` to the `gh-pages` branch that Pages serves.
+
+`public/CNAME` holds the custom domain. The DNS record is a proxied CNAME in Cloudflare (`vipdemo1` → `akshay-eng.github.io`), and HTTPS comes from Cloudflare's edge.
 
 ## What's in it
 
